@@ -1,0 +1,12 @@
+DELETE FROM consultation_details;
+DELETE FROM consultations;
+DELETE FROM horses;
+DELETE FROM customer_user;
+DELETE FROM product_catalogs;
+DELETE FROM users;
+DELETE FROM customers;
+ALTER SEQUENCE consultation_seq RESTART WITH 1;
+ALTER SEQUENCE horse_seq RESTART WITH 1;
+ALTER SEQUENCE customer_seq RESTART WITH 1;
+ALTER SEQUENCE product_catalog_seq RESTART WITH 1;
+ALTER SEQUENCE user_seq RESTART WITH 1;

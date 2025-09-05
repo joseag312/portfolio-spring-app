@@ -24,7 +24,7 @@ Users can:
 
 ## Portfolio Focus
 
-This project was designed as a **demonstration of software engineering practices** applied to backend development.
+This project was designed as a **demonstration of software engineering practices** applied to back-end development.
 
 ### SOLID
 

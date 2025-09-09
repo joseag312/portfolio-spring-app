@@ -63,7 +63,7 @@ This project was designed as a **demonstration of software engineering practices
 
 ---
 
-## 🛠️ **Features**
+## Features
 
 - **User Management:**
 
